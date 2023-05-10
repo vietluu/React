@@ -1,0 +1,16 @@
+*{
+ 
+  box-sizing: border-box;
+}
+body{
+  font-family: "Poppins",sans-serif;
+}
+#root{
+  max-width: 660px;
+  margin:0 auto;
+  border: 2px solid rgb(177, 176, 176);
+}
+#root::-webkit-scrollbar{
+  width: 0;
+ 
+}
